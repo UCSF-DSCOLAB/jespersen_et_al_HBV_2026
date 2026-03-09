@@ -1,0 +1,9 @@
+"tp","Fine_label","compariosn","pathway","gsea_res"
+"iVR","Non-Naive CD4","non_naive_cd4_ivr","GSE3982_EFF_MEMORY_VS_CENT_MEMORY_CD4_TCELL_UP","/krummellab/data1/DSCoLab/XVIR1/10x/SCG2__52_py_RKP/dge_analysis/paired_analysis/v1_res/Fine_label/transition_ivr/Non-Naive CD4/woInteraction/outcome_gsea.csv"
+"iVR","Non-Naive CD4","non_naive_cd4_ivr","GSE26928_NAIVE_VS_EFF_MEMORY_CD4_TCELL_DN","/krummellab/data1/DSCoLab/XVIR1/10x/SCG2__52_py_RKP/dge_analysis/paired_analysis/v1_res/Fine_label/transition_ivr/Non-Naive CD4/woInteraction/outcome_gsea.csv"
+"iVR","Non-Naive CD4","non_naive_cd4_ivr","GSE3982_EFF_MEMORY_VS_CENT_MEMORY_CD4_TCELL_DN","/krummellab/data1/DSCoLab/XVIR1/10x/SCG2__52_py_RKP/dge_analysis/paired_analysis/v1_res/Fine_label/transition_ivr/Non-Naive CD4/woInteraction/outcome_gsea.csv"
+"iVR","Non-Naive CD4","non_naive_cd4_ivr","GSE26928_NAIVE_VS_EFF_MEMORY_CD4_TCELL_UP","/krummellab/data1/DSCoLab/XVIR1/10x/SCG2__52_py_RKP/dge_analysis/paired_analysis/v1_res/Fine_label/transition_ivr/Non-Naive CD4/woInteraction/outcome_gsea.csv"
+"peakALT","Non-Naive CD8","non_naive_cd8_peakalt","GSE26495_NAIVE_VS_PD1LOW_CD8_TCELL_DN","/krummellab/data1/DSCoLab/XVIR1/10x/SCG2__52_py_RKP/dge_analysis/paired_analysis/v1_res/Fine_label/transition_peakALT/Non-Naive CD8/woInteraction/outcome_gsea.csv"
+"peakALT","Non-Naive CD8","non_naive_cd8_peakalt","KAECH_NAIVE_VS_DAY8_EFF_CD8_TCELL_UP","/krummellab/data1/DSCoLab/XVIR1/10x/SCG2__52_py_RKP/dge_analysis/paired_analysis/v1_res/Fine_label/transition_peakALT/Non-Naive CD8/woInteraction/outcome_gsea.csv"
+"peakALT","Non-Naive CD8","non_naive_cd8_peakalt","GSE8678_IL7R_LOW_VS_HIGH_EFF_CD8_TCELL_DN","/krummellab/data1/DSCoLab/XVIR1/10x/SCG2__52_py_RKP/dge_analysis/paired_analysis/v1_res/Fine_label/transition_peakALT/Non-Naive CD8/woInteraction/outcome_gsea.csv"
+
