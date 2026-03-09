@@ -11,9 +11,9 @@ res$test_status = ifelse(
   "NS"
   )
 res = arrange(res, test_status)
-ginfo = read.csv("10X_ref_v5.0.0/gene_info.tsv", sep="\t", header=F)
+ginfo = read.csv("../../data/dge_result/gene_info.tsv", sep="\t", header=F)
 
-pdf("../final_figs/volcano_nonnaiveCD4_ivr_outcome.pdf", width=12, height=10)
+pdf("../../data/dge_result/volcano_nonnaiveCD4_ivr_outcome.pdf", width=12, height=10)
 for(mark_top_n in c(10,20,30,40,50)) {
 plot_title = paste0(
   "iVR|Non-Naive CD4|woInteraction|outcome",
@@ -68,9 +68,9 @@ res$test_status = ifelse(
   "NS"
   )
 res = arrange(res, test_status)
-ginfo = read.csv("10X_ref_v5.0.0/gene_info.tsv", sep="\t", header=F)
+ginfo = read.csv("../../data/dge_result/gene_info.tsv", sep="\t", header=F)
 
-pdf("../final_figs/volcano_nonnaiveCD8_peakALT_outcome.pdf", width=12, height=10)
+pdf("../../data/dge_result/volcano_nonnaiveCD8_peakALT_outcome.pdf", width=12, height=10)
 for(mark_top_n in c(10,20,30,40,50)) {
 plot_title = paste0(
   "peakALT|Non-Naive CD8|woInteraction|outcome",
