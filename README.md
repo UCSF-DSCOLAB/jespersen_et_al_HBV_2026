@@ -1,4 +1,4 @@
-This repository contains original code used for the analysis of CITE-seq data generated for Jespersen & Avanesyan et al., Clinical cure of chronic hepatitis B is dependent on priming and perpetuation of robust CD4⁺ T cell responses (2026). (bioRxiv: https://www.biorxiv.org/content/10.1101/2025.09.29.677401v1.full)
+This repository contains original code used for the analysis of CITE-seq data generated for Jespersen & Avanesyan et al., Clinical cure of chronic hepatitis B is associated with priming and perpetuation of hepatic CD4+ T cell responses (Science Translational Medicine, 2026) https://www.science.org/doi/full/10.1126/scitranslmed.adx1523.
 
 ```
 ├── data: auxiliary data files
